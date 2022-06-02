@@ -1,0 +1,5 @@
+export const halfWidthInputStyle = `text-black mt-1 block w-[18rem] md:w-[17.5rem] lg:md:w-[19rem] xl:w-[30rem] py-2 px-3 border border-gray-400 bg-white rounded-md shadow-sm focus:outline-none focus:ring-offset-2 focus:ring-[1.5px] focus:ring-primaryColor sm:text-sm`;
+export const fullWidthInputStyle = `text-black mt-1 block w-[18rem] md:w-[35.7rem] lg:md:w-[39.3rem] xl:w-[63rem] py-2 px-3 border border-gray-400 bg-white rounded-md shadow-sm focus:outline-none focus:ring-offset-2 focus:ring-[1.5px] focus:ring-primaryColor sm:text-sm`;
+export const textareaStyle = `text-black mt-1 block w-[18rem] md:w-[35.7rem] lg:md:w-[39.3rem] xl:w-[63rem] py-2 px-3 border border-gray-400 bg-white rounded-md shadow-sm focus:outline-none focus:ring-offset-2 focus:ring-[1.5px] focus:ring-primaryColor sm:text-sm`;
+export const readOnlyStyle = `text-black mt-1 block w-full py-2 px-3 border border-gray-400 bg-slate-200 rounded-md shadow-sm focus:outline-none sm:text-sm`;
+export const errorStyle = `mt-4 text-sm text-red-500 italic`;
